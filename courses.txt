@@ -1,0 +1,3 @@
+Course Id, Course Name, Instructor 
+CSIPL01, Introductions to Java, Marcial Cordon 
+CSIPL02, Introductions to Python, Yound Wook Baek
